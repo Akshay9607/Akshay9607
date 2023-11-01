@@ -23,10 +23,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/akshay-jadhav-9009671b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-jadhav-9009671b0" height="30" width="40" /></a>
 <a href="https://instagram.com/akshayjadhav_2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshayjadhav_2702" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshayjadhav77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshayjadhav77" height="30" width="40" /></a>
+<!--<a href="https://www.codechef.com/users/akshayjadhav77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshayjadhav77" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshayjadhav7771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshayjadhav7771" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshay_jadhav_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay_jadhav_123" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akshay964fi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshay964fi6" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akshay964fi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshay964fi6" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
