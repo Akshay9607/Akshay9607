@@ -36,4 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay9607&show_icons=true&locale=en" alt="akshay9607" /></p>
 
+[![An image of @akshayjadhav_2702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshayjadhav_2702)](https://holopin.io/@akshayjadhav_2702)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay9607&" alt="akshay9607" /></p>
